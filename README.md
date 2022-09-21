@@ -1,4 +1,4 @@
-<--
+<!--
 **Ibenammou/Ibenammou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creators
 
 ### Connect with me:
-<--
+<!--
 [<img align="left" alt="LinkedIn" width="40px" src="./img/linkedin.svg" style="padding-right:10px;" />](https://linkedin.com/in/najlae-abarghache#gh-dark-mode-only)
 &nbsp;&nbsp;
 -->
