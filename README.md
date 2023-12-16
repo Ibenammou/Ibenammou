@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## I'm an embedded systems learner 💻
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other learners
 
 ### Connect with me:
 <!--
